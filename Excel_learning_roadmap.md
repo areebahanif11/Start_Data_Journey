@@ -46,7 +46,8 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - INDEX and MATCH
 - XLOOKUP (in latest Excel)
 
-🎥 YouTube: [Vlookup and HLookup](https://youtu.be/4PFuvqbhdPA)   [XLookup](https://youtu.be/Z8XCv-Svyjw)
+🎥 YouTube: [Vlookup and HLookup](https://youtu.be/4PFuvqbhdPA)   
+             [XLookup](https://youtu.be/Z8XCv-Svyjw)
 
 ---
 
@@ -55,7 +56,8 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - Using TRIM, CLEAN, PROPER
 - Find and Replace
 - Text to Columns
-🎥 YouTube: [Data Cleaning Techniques](https://youtu.be/q7EpoOwBcnM)  [Data Cleaning tricks](https://youtu.be/SNVjndgWBlw?list=PLmejDGrsgFyAjJtHYLu2iMCi1J4zT0VMh)
+🎥 YouTube: [Data Cleaning Techniques](https://youtu.be/q7EpoOwBcnM)
+             [Data Cleaning tricks](https://youtu.be/SNVjndgWBlw?list=PLmejDGrsgFyAjJtHYLu2iMCi1J4zT0VMh)
 
 ---
 
@@ -81,7 +83,8 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - Using Data Validation rules
 - Goal Seek, Scenario Manager
 
-🎥 YouTube: [Scenario manager](https://youtu.be/xGH9ukN1SHg)   [Excel Solver and Goal Seek](https://youtu.be/UD9e-gQCQsE)
+🎥 YouTube: [Scenario manager](https://youtu.be/xGH9ukN1SHg)   
+             [Excel Solver and Goal Seek](https://youtu.be/UD9e-gQCQsE)
              
 ---
 
@@ -90,7 +93,8 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - Formatting and customizing charts
 - Designing simple dashboards
 
-🎥 YouTube: [Excel Charts and Graphs](https://youtu.be/eHtZrIb0oWY)  [Dashboards in Excel](https://youtu.be/MTlQvyNQ3PM)
+🎥 YouTube: [Excel Charts and Graphs](https://youtu.be/eHtZrIb0oWY)  
+             [Dashboards in Excel](https://youtu.be/MTlQvyNQ3PM)
 
 ---
 
