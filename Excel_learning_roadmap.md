@@ -1,4 +1,4 @@
-# 📗 Excel Learning Guide for Beginners – Step by Step Roadmap
+# 📗 Excel Learning Guide – Step by Step Roadmap
 
 This is a beginner-friendly roadmap to help you learn **Microsoft Excel** from scratch.  
 Each step includes **topics to learn** and **helpful video resources** so you can master Excel for data analysis and daily tasks.
