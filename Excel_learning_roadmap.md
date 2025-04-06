@@ -86,7 +86,7 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - Goal Seek, Scenario Manager
 
 🎥 YouTube: 
-- [Scenario manager](https://youtu.be/xGH9ukN1SHg)   
+- [Scenario manager](https://youtu.be/M9guQq3mWDQ)   
 - [Excel Solver and Goal Seek](https://youtu.be/UD9e-gQCQsE)
              
 ---
