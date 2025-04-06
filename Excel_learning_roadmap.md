@@ -28,7 +28,7 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - Common functions: SUM, AVERAGE, MIN, MAX
 - Understanding formula syntax
 
-🎥 YouTube: [Excel Formulas and Functions](https://youtu.be/c7BTS7QOEDM)
+🎥 YouTube: [Excel Formulas and Functions](https://youtu.be/Y8xhrUa3KH4)
 
 ---
 
@@ -37,7 +37,7 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - CONCATENATE, LEFT, RIGHT, MID, LEN
 - TEXT function formatting
 
-🎥 YouTube: [Text Functions](https://youtu.be/tCxhCOE96lw)
+🎥 YouTube: [Text Functions](https://youtu.be/thvE8Eg-Pqg)
 
 ---
 
@@ -47,8 +47,8 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - XLOOKUP (in latest Excel)
 
 🎥 YouTube: 
--  [Vlookup and HLookup](https://youtu.be/4PFuvqbhdPA)   
--  [XLookup](https://youtu.be/Z8XCv-Svyjw)
+-  [Vlookup](https://youtu.be/8rtvDQVQaA0)   
+-  [XLookup](https://youtu.be/YyhJe5tMq58)
 
 ---
 
