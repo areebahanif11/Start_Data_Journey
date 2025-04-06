@@ -68,7 +68,7 @@ Each step includes **topics to learn** and **helpful video resources** so you ca
 - AutoFilter and advanced filtering
 - Working with tables
 
-🎥 YouTube: [Sort & Filter in Excel – Microsoft Excel Tutorials](https://www.youtube.com/watch?v=6zDFgW5KgUs)
+🎥 YouTube: [Sorting, Filters and Tables](https://youtu.be/oK5Pn78tiv8)
 
 ---
 
